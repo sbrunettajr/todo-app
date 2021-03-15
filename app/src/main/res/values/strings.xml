@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">To do</string>
+    <string name="action_remove">Remover</string>
+    <string name="description">Descrição</string>
+    <string name="date">Data</string>
+    <string name="time">Horário</string>
+    <string name="save">Salvar</string>
+</resources>
